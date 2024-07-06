@@ -1,0 +1,31 @@
+@charset "utf-8";
+.page {
+background-color:#cccccc;
+
+}
+
+.header{
+    background-color:#222222;
+    color: #FFFFFF;
+}
+.contentTitleH2{
+    padding:20px 10%;
+}
+
+.contentTitleH3{
+    padding:10px;
+    margin:20px 0px;
+    border-bottom: solid;
+    border-bottom-width:1px;
+}
+.main-content{
+    padding:10px 20px;
+    margin:30px 20px;
+    background-color:#ffffff;
+}
+
+.sub-content{
+    padding:10px 20px;
+    margin:30px 20px;
+    background-color:#ffffff;
+}
