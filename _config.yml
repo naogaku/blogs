@@ -28,8 +28,10 @@ url: "https://naogaku.github.io"
 github:
   username: naogaku # change to your GitHub username
 
-twitter:
-  username: # fill in your X (Twitter) username if you have one
+# X (Twitter) のハンドルを持ったら↓のコメントを外して設定する
+# (twitter: キー自体が存在すると twitter:site メタタグが空ハンドルで出力されてしまうため、未設定の間はブロックごと外す)
+# twitter:
+#   username: your_twitter_handle
 
 social:
   # Change to your full name.
